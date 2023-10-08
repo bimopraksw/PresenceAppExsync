@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "20438898219",
+    "project_id": "presence-c7bd1",
+    "storage_bucket": "presence-c7bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20438898219:android:df7df72b5545940aa3fc6e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20438898219-0ic8659mg5j00dr92ddv9krccqjg1apu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4vTS8eD7r73eQ_769uVz2ybHEMbymAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20438898219-0ic8659mg5j00dr92ddv9krccqjg1apu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20438898219-5pkibtv26dn50he1h25e3rbmq0pbm647.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vbimopraksw.presensi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20438898219:android:42085acbf31ef939a3fc6e",
+        "android_client_info": {
+          "package_name": "com.vbimopraksw.presensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20438898219-0ic8659mg5j00dr92ddv9krccqjg1apu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4vTS8eD7r73eQ_769uVz2ybHEMbymAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20438898219-0ic8659mg5j00dr92ddv9krccqjg1apu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20438898219-5pkibtv26dn50he1h25e3rbmq0pbm647.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vbimopraksw.presensi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
